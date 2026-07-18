@@ -22,7 +22,7 @@ def Criar_Botoes(frame,
                 width=width, 
                 height=height, 
                 bg=cor_fundo,
-                command=comando
+                command=comando,
                 font=FONTE,
                 relief=RAISED,
                 overrelief=RIDGE
